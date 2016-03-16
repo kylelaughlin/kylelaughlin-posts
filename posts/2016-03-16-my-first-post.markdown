@@ -18,6 +18,7 @@ Here is a 'code snippet'
 * list item
 * list item
 
+
 1. numbered list
 2. numbered list
 3. numbered list
