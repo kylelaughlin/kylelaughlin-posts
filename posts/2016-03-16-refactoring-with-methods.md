@@ -2,12 +2,11 @@
 
 The refactoring process was a pretty good eye opener about writing readable
 code. It was much easier to understand what a little 1-8 line code block does.
-The largest benefit to refactoring and breaking things out to many small
-methods is how easy it makes testing and debugging.  being able to isolate
-each process and ensure it is doing what you and your test intend is powerful.
-It did make it difficult to follow the jumps between methods when trying to get
-a grip of the whole picture. I will be curious to see how this changes when we
-introduce objects and classes.
+The largest benefit I see to refactoring is how easy it makes testing and
+debugging.  Being able to isolate each process and ensure it is doing what you
+and your test intend is powerful. It did make it difficult to follow the jumps
+between methods when trying to get a grip of the whole picture. I will be
+curious to see how this changes when we introduce objects and classes.
 
 In terms of the data_validator, my approach was very similar to your
 demo. I didn't get the refactoring of the selection of how many days are in the
